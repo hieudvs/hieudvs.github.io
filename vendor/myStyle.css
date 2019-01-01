@@ -1,0 +1,38 @@
+#khoi_nhap_lieu{
+	position: relative;
+}
+
+.thongbao{
+	position: absolute;
+	width: 100%;
+	top: 40%;
+	left: 0%;
+	
+}
+
+.mrtop {
+    margin-top: 10px;
+}
+.mrright {
+    margin-right: 10px;
+}
+
+
+._1khoi:hover{
+	/* box-shadow: 1px gray; */
+
+
+    /* padding: 1px 1px 1px 1px; */
+   
+  
+    box-shadow: 1px 5px 2px #8681817d;
+
+
+
+}
+
+/*Gọi từ jQuery*/
+.thongbao.hide_box{
+	display: none;
+}
+
