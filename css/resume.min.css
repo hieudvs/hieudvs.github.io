@@ -84,3 +84,5 @@ a:active,a:focus,a:hover{color:#ff4600;text-decoration: none;}
 li strong {color: coral;}
 .resume-content.mr-auto a span {font-size: 16px;}
 .resume-content .h5.mb-3 {font-size: 16px;}
+.resume-content.mr-auto h5 {font-size: 20px;}
+.resume-content.mr-auto div.h5 {font-size: 18px;}
